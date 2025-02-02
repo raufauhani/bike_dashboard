@@ -5,7 +5,7 @@
 2. Install semua dependensi dengan perintah: 
 pip install -r requirements.txt
 3. Jalankan dashboard dengan perintah:
-streamlit run dashboard/dashboard.py
+streamlit run index.py
 
 
 # Tentang Dataset
